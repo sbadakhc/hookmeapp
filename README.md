@@ -1,4 +1,4 @@
-hookmeapp
+HookMeApp
 =========
 
-Bluetooth chat and file sharing application. 
+Bluetooth chat and file sharing made easy. 
